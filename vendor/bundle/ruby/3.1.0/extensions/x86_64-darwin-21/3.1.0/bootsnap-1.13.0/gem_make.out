@@ -1,0 +1,16 @@
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-8xplo3 sitelibdir\=./.gem.20221020-4569-8xplo3 clean
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-8xplo3 sitelibdir\=./.gem.20221020-4569-8xplo3
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-8xplo3 sitelibdir\=./.gem.20221020-4569-8xplo3 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20221020-4569-8xplo3/bootsnap

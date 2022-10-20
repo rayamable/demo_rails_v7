@@ -1,0 +1,17 @@
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-hj8ox0 sitelibdir\=./.gem.20221020-4569-hj8ox0 clean
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-hj8ox0 sitelibdir\=./.gem.20221020-4569-hj8ox0
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/rayamable/Desktop/Rails/demo_rails_v7/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221020-4569-hj8ox0 sitelibdir\=./.gem.20221020-4569-hj8ox0 install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20221020-4569-hj8ox0/debug
